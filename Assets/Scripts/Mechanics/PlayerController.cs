@@ -51,6 +51,8 @@ namespace Platformer.Mechanics
             animator = GetComponent<Animator>();
         }
 
+		
+
         protected override void Update()
         {
             if (controlEnabled)
@@ -63,6 +65,10 @@ namespace Platformer.Mechanics
                     stopJump = true;
                     Schedule<PlayerStopJump>().player = this;
                 }
+				if(Input.GetKey(KeyCode.Q))
+				{
+					Debug.Log("Se preciono la tecla Q");
+				}
             }
             else
             {
