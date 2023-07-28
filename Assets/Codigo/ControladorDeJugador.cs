@@ -24,7 +24,7 @@ public class ControladorDeJugador : MonoBehaviour
 		rb = GetComponent<Rigidbody2D>();
 	}
 	void Start(){
-		velocidadHorizontal = 1f;
+		velocidadHorizontal = 0.9f;
 		fuerzaVertical = 30f;
 		saltar = false;
 		correr = false;
@@ -42,11 +42,16 @@ public class ControladorDeJugador : MonoBehaviour
 		}
 		//Desecender rapido
 		if(yDir<-0.1f && enAire){
-			rb.AddForce(new Vector2(0, yDir*fuerzaVertical),ForceMode2D.Impulse);
+			rb.AddForce(new Vector2(0, yDir),ForceMode2D.Impulse);
 		}
 		//Mov Horizontal
 		if(xDir>0.1f || xDir<-0.1f){
-			rb.AddForce(new Vector2(xDir*velocidadHorizontal,0),ForceMode2D.Impulse);
+			if(enAire){
+				rb.AddForce(new Vector2(xDir*velocidadHorizontal*0.6f,0),ForceMode2D.Impulse);
+			}else{
+				rb.AddForce(new Vector2(xDir*velocidadHorizontal,0),ForceMode2D.Impulse);
+			}
+			
 		}
 	}
 	void OnTriggerEnter2D(Collider2D collision) {
