@@ -5,7 +5,7 @@ using UnityEngine;
 public class FollowPlayer : MonoBehaviour
 {
 public Transform PocisionCamara;
-public float plerp = 0.1f;
+public float plerp = 0.5f;
 void Update(){
 	transform.position = Vector3.Lerp(transform.position, PocisionCamara.position, plerp);
 }
