@@ -2,8 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class OrbeController : MonoBehaviour
 {
+	//public Volume volume;
 	public int vida;
     void Start(){
         vida = 10;
@@ -17,9 +19,11 @@ public class OrbeController : MonoBehaviour
 			vida--;
 			Debug.Log("Vida: " + vida);
 			Destroy(other.gameObject);
+			
 			if(vida <= 0){
 				Destroy(gameObject);
 			}
+
 		}
 	}
 }

@@ -6,7 +6,7 @@ public class OjoController : MonoBehaviour
 {
 	public Transform orbe;
 	public bool enRango = false;
-	public float plerp = 0.005f;
+	public float plerp = 0.015f;
     // Update is called once per frame
 	void Start(){
 		orbe = GameObject.FindGameObjectWithTag("Orbe").GetComponent<Transform>();
