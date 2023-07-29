@@ -7,8 +7,9 @@ public class ControladorDeJugador : MonoBehaviour{
 	private Animator animator;
 	private Rigidbody2D rb;
 	private SpriteRenderer sr;
-	public GameObject ataque1;
 	private BoxCollider2D aQ;
+	public GameObject ataque1;
+	public Transform linterna;
 	//Variables de desplazamiento
 	public float velocidadHorizontal;
 	public float fuerzaVertical;
@@ -83,9 +84,12 @@ public class ControladorDeJugador : MonoBehaviour{
 			if (xDir<-0.1f){
 				sr.flipX = true;
 				aQ.offset = new Vector2(-0.5f,0);
+				linterna.transform.rotation = Quaternion.Euler(0,0,90);
+
 			}else if(xDir>0.1f){
 				sr.flipX = false;
 				aQ.offset = new Vector2(0.5f,0);
+				linterna.transform.rotation = Quaternion.Euler(0,0,270);
 			}		
 			if(enAire){
 				rb.AddForce(new Vector2(xDir*velocidadHorizontal*0.5f,0),ForceMode2D.Impulse);

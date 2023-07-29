@@ -11,7 +11,6 @@ public class OrbeController : MonoBehaviour
         vida = 10;
     }
     void Update(){
-        
     }
 	//Funcion de colision con enemigo
 	void OnTriggerEnter2D(Collider2D other){
@@ -19,7 +18,6 @@ public class OrbeController : MonoBehaviour
 			vida--;
 			Debug.Log("Vida: " + vida);
 			Destroy(other.gameObject);
-			
 			if(vida <= 0){
 				Destroy(gameObject);
 			}

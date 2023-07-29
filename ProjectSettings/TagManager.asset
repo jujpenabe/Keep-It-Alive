@@ -12,7 +12,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - PostPros
+  - 
   - Water
   - UI
   - 
@@ -44,4 +44,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Personaje
+    uniqueID: 103086923
+    locked: 0
+  - name: Terreno
+    uniqueID: 3632774567
     locked: 0

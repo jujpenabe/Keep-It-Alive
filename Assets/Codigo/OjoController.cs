@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class OjoController : MonoBehaviour
 {
-	public Transform orbe;
+	private Transform orbe;
 	public bool enRango = false;
 	public float plerp = 0.015f;
     // Update is called once per frame
