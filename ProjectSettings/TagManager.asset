@@ -45,9 +45,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Personaje
+  - name: Character
     uniqueID: 103086923
     locked: 0
-  - name: Terreno
+  - name: Background
     uniqueID: 3632774567
+    locked: 0
+  - name: Platform
+    uniqueID: 4200348757
+    locked: 0
+  - name: Foreground
+    uniqueID: 1550073831
     locked: 0
