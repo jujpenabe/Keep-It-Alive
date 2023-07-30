@@ -11,8 +11,8 @@ public class ControladorDeJugador : MonoBehaviour{
 	public GameObject ataque1;
 	public Transform linterna;
 	//Variables de desplazamiento
-	public float velocidadHorizontal;
-	public float fuerzaVertical;
+	public float velocidadHorizontal = 1f;
+	public float fuerzaVertical = 10f;
 	//Estados de movimiento
 	private bool enAire;
 	private float xDir;
@@ -31,9 +31,7 @@ public class ControladorDeJugador : MonoBehaviour{
 		aQ = ataque1.GetComponent<BoxCollider2D>();
 	}
 	void Start(){
-		velocidadHorizontal = 0.9f;
-		fuerzaVertical = 27f;
-		enAire = false;
+		enAire = true;
     }
     // Update is called once per frame
     void Update(){
@@ -43,6 +41,7 @@ public class ControladorDeJugador : MonoBehaviour{
 		ataqueW	= Input.GetButtonDown("Fire2");
 		ataqueE	= Input.GetButtonDown("Fire3");
 		ataqueR	= Input.GetButtonDown("Fire4");
+		
 		//Ataques
 		if(!enAtaque){
 			if(ataqueQ){
@@ -67,10 +66,10 @@ public class ControladorDeJugador : MonoBehaviour{
     }
 	void FixedUpdate(){
 		//Desecender
-		if(yDir>-0.1f){
+		if(yDir > 0.1f){
 			animator.SetBool("descender",false);
 		}
-		if(yDir<-0.1f){
+		if(yDir < -0.1f){
 			animator.SetBool("descender",true);
 			if(enAire){
 				rb.AddForce(new Vector2(0, yDir),ForceMode2D.Impulse);
@@ -78,7 +77,7 @@ public class ControladorDeJugador : MonoBehaviour{
 		}
 		//Mov Horizontal
 		if(xDir==0f){
-			animator.SetBool("correr",false);
+			animator.SetBool("Running",false);
 		}
 		if(xDir>0.1f || xDir<-0.1f){
 			if (xDir<-0.1f){
@@ -97,7 +96,7 @@ public class ControladorDeJugador : MonoBehaviour{
 				rb.AddForce(new Vector2(xDir*velocidadHorizontal*0.7f,0),ForceMode2D.Impulse);
 			}else{
 				rb.AddForce(new Vector2(xDir*velocidadHorizontal,0),ForceMode2D.Impulse);
-				animator.SetBool("correr",true);
+				animator.SetBool("Running",true);
 			}
 		}
 		//Saltar
@@ -108,13 +107,13 @@ public class ControladorDeJugador : MonoBehaviour{
 	}
 	//Lugar
 	void OnTriggerEnter2D(Collider2D collision) {
-		if(collision.gameObject.tag == "Suelo"){
+		if(collision.gameObject.tag == "Floor"){
 			enAire = false;
 			animator.SetBool("saltar",false);
 		}
 	}
 	void OnTriggerExit2D(Collider2D collision) {
-		if(collision.gameObject.tag == "Suelo"){
+		if(collision.gameObject.tag == "Floor"){
 			enAire = true;
 		}
 	}

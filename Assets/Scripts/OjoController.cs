@@ -9,7 +9,7 @@ public class OjoController : MonoBehaviour
 	public float plerp = 0.015f;
     // Update is called once per frame
 	void Start(){
-		orbe = GameObject.FindGameObjectWithTag("Orbe").GetComponent<Transform>();
+		orbe = GameObject.FindGameObjectWithTag("Orb").GetComponent<Transform>();
 	}
     void Update()
     {
@@ -17,7 +17,7 @@ public class OjoController : MonoBehaviour
         transform.position = Vector3.MoveTowards(transform.position, orbe.position, plerp);
     }
 	void OnTriggerEnter2D(Collider2D other){
-		if(other.gameObject.CompareTag("Orbe")){
+		if(other.gameObject.CompareTag("Orb")){
 			Debug.Log("Colision con Orbe");
 			enRango = true;
 		}
