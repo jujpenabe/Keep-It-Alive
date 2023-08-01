@@ -22,7 +22,7 @@ public class Spawn : MonoBehaviour
         StartCoroutine(Appear());
     }
     IEnumerator Appear(){
-        yield return new WaitForSeconds(2f);
+        yield return new WaitForSeconds(4f);
         rb.AddForce(new Vector2(15, 40),ForceMode2D.Impulse);
         while (alpha<1){
             yield return null;

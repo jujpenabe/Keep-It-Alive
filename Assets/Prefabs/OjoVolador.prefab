@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7408464079806385188}
   - component: {fileID: 5253478596514866340}
   m_Layer: 0
-  m_Name: OjoRango
+  m_Name: Range
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -23,6 +23,7 @@ public class ControladorDeJugador : MonoBehaviour{
 	private bool ataqueE;
 	private bool ataqueR;
 	private bool enAtaque;
+	private bool canPlay = false;
 	
 	void Awake(){
 		animator = GetComponent<Animator>();
@@ -32,9 +33,12 @@ public class ControladorDeJugador : MonoBehaviour{
 	}
 	void Start(){
 		enAire = true;
-    }
+		StartCoroutine(GetControl(4f));
+	}
     // Update is called once per frame
-    void Update(){
+    void Update()
+    {
+	    if (!canPlay) return;
 		xDir	= Input.GetAxisRaw("Horizontal");
 		yDir	= Input.GetAxisRaw("Vertical");
 		ataqueQ	= Input.GetButtonDown("Fire1");
@@ -46,7 +50,7 @@ public class ControladorDeJugador : MonoBehaviour{
 		if(!enAtaque){
 			if(ataqueQ){
 				Debug.Log("Ataque Q");
-				animator.SetTrigger("ataqueQ");
+				animator.SetTrigger("abilityQ");
 				StartCoroutine(AtaqueQ());
 				return;
 			}
@@ -82,12 +86,12 @@ public class ControladorDeJugador : MonoBehaviour{
 		if(xDir>0.1f || xDir<-0.1f){
 			if (xDir<-0.1f){
 				sr.flipX = true;
-				aQ.offset = new Vector2(-0.5f,0);
+				aQ.offset = new Vector2(-1.5f,0);
 				linterna.transform.rotation = Quaternion.Euler(0,0,90);
 
 			}else if(xDir>0.1f){
 				sr.flipX = false;
-				aQ.offset = new Vector2(0.5f,0);
+				aQ.offset = new Vector2(1.5f,0);
 				linterna.transform.rotation = Quaternion.Euler(0,0,270);
 			}		
 			if(enAire){
@@ -124,5 +128,10 @@ public class ControladorDeJugador : MonoBehaviour{
 		yield return new WaitForSeconds(0.3f);
 		aQ.enabled = false;
 		enAtaque = false;
+	}
+	
+	IEnumerator GetControl(float time){
+		yield return new WaitForSeconds(time);
+		canPlay = true;
 	}
 }

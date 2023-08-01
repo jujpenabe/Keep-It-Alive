@@ -7,6 +7,8 @@ TagManager:
   - Floor
   - Enemigo
   - Orb
+  - Orbe
+  - LightOrb
   layers:
   - Default
   - TransparentFX
