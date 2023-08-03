@@ -1,0 +1,1575 @@
+fileFormatVersion: 2
+guid: efe2d48b979399e1ba2d8d270c4354c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8414290343081516634
+    second: Sprites finales2 copy_0
+  - first:
+      213: 7112572660154893752
+    second: Sprites finales2 copy_1
+  - first:
+      213: 95773118061624775
+    second: Sprites finales2 copy_2
+  - first:
+      213: -8712502275173018795
+    second: Sprites finales2 copy_3
+  - first:
+      213: 2026850544660601551
+    second: Sprites finales2 copy_4
+  - first:
+      213: -3836827769222729866
+    second: Sprites finales2 copy_5
+  - first:
+      213: -8384919751368297913
+    second: Sprites finales2 copy_6
+  - first:
+      213: -6154878873477200889
+    second: Sprites finales2 copy_7
+  - first:
+      213: 1161942434018274094
+    second: Sprites finales2 copy_8
+  - first:
+      213: -4306372130592633412
+    second: Sprites finales2 copy_9
+  - first:
+      213: -7373005480564276270
+    second: Sprites finales2 copy_10
+  - first:
+      213: -2554981305047410844
+    second: Sprites finales2 copy_11
+  - first:
+      213: 6234842791681694126
+    second: Sprites finales2 copy_12
+  - first:
+      213: -6923007338383871365
+    second: Sprites finales2 copy_13
+  - first:
+      213: -5925656382579043003
+    second: Sprites finales2 copy_14
+  - first:
+      213: 8294123925801464313
+    second: Sprites finales2 copy_15
+  - first:
+      213: -6610622287707818284
+    second: Sprites finales2 copy_16
+  - first:
+      213: 9216839747407817103
+    second: Sprites finales2 copy_17
+  - first:
+      213: 3255281985584167736
+    second: Sprites finales2 copy_18
+  - first:
+      213: -2595646708331651689
+    second: Sprites finales2 copy_19
+  - first:
+      213: 2384652557680951830
+    second: Sprites finales2 copy_20
+  - first:
+      213: 8676565664471075464
+    second: Sprites finales2 copy_21
+  - first:
+      213: 5923640155214306941
+    second: Sprites finales2 copy_22
+  - first:
+      213: -703920147063792658
+    second: Sprites finales2 copy_23
+  - first:
+      213: 3169699051777100379
+    second: Sprites finales2 copy_24
+  - first:
+      213: 1500975532929601649
+    second: Sprites finales2 copy_25
+  - first:
+      213: -8065469065455072571
+    second: Sprites finales2 copy_26
+  - first:
+      213: 9158918351933487356
+    second: Sprites finales2 copy_27
+  - first:
+      213: 4461474307980124254
+    second: Sprites finales2 copy_28
+  - first:
+      213: 2965267470536785
+    second: Sprites finales2 copy_29
+  - first:
+      213: 1176399471298250976
+    second: Sprites finales2 copy_30
+  - first:
+      213: 5567458144577525729
+    second: Sprites finales2 copy_31
+  - first:
+      213: -1869081820037866568
+    second: Sprites finales2 copy_32
+  - first:
+      213: -8956660532402000201
+    second: Sprites finales2 copy_33
+  - first:
+      213: -4173466062832661566
+    second: Sprites finales2 copy_34
+  - first:
+      213: -6429115734593024917
+    second: Sprites finales2 copy_35
+  - first:
+      213: 7400912683585280303
+    second: Sprites finales2 copy_36
+  - first:
+      213: 1193687665087271136
+    second: Sprites finales2 copy_37
+  - first:
+      213: -8071993051892640287
+    second: Sprites finales2 copy_38
+  - first:
+      213: -8456368671694514753
+    second: Sprites finales2 copy_39
+  - first:
+      213: -4422130597007525196
+    second: Sprites finales2 copy_40
+  - first:
+      213: -3842118851884455035
+    second: Sprites finales2 copy_41
+  - first:
+      213: -6641791468771224703
+    second: Sprites finales2 copy_42
+  - first:
+      213: 8088063731979776215
+    second: Sprites finales2 copy_43
+  - first:
+      213: 377037298823381581
+    second: Sprites finales2 copy_44
+  - first:
+      213: 8138075410182340869
+    second: Sprites finales2 copy_45
+  - first:
+      213: -7577793191941927543
+    second: Sprites finales2 copy_46
+  - first:
+      213: -322235662582156543
+    second: Sprites finales2 copy_47
+  - first:
+      213: 7958309640387572822
+    second: Sprites finales2 copy_48
+  - first:
+      213: 5720373343360351586
+    second: Sprites finales2 copy_49
+  - first:
+      213: 4532816579510508784
+    second: Sprites finales2 copy_50
+  - first:
+      213: 189176505992242337
+    second: Sprites finales2 copy_51
+  - first:
+      213: -979042202906288098
+    second: Sprites finales2 copy_52
+  - first:
+      213: 7803210157219226690
+    second: Sprites finales2 copy_53
+  - first:
+      213: -7991590248948196918
+    second: Sprites finales2 copy_54
+  - first:
+      213: 8547829124154286811
+    second: Sprites finales2 copy_55
+  - first:
+      213: 8391119641301552325
+    second: Sprites finales2 copy_56
+  - first:
+      213: -1772677127345581814
+    second: Sprites finales2 copy_57
+  - first:
+      213: -5321268660612063365
+    second: Sprites finales2 copy_58
+  - first:
+      213: -2543609619807555190
+    second: Sprites finales2 copy_59
+  - first:
+      213: 5441995898567822405
+    second: Sprites finales2 copy_60
+  - first:
+      213: -3075539925542920337
+    second: Sprites finales2 copy_61
+  - first:
+      213: 1220172952645499758
+    second: Sprites finales2 copy_62
+  - first:
+      213: 7245711784785859309
+    second: Sprites finales2 copy_63
+  - first:
+      213: -8757632461150648910
+    second: Sprites finales2 copy_64
+  - first:
+      213: 480164380020324928
+    second: Sprites finales2 copy_65
+  - first:
+      213: 2175314738272073300
+    second: Sprites finales2 copy_66
+  - first:
+      213: -2443107291153023636
+    second: Sprites finales2 copy_67
+  - first:
+      213: 1314887582286668814
+    second: Sprites finales2 copy_68
+  - first:
+      213: 2199383486039737779
+    second: Sprites finales2 copy_69
+  - first:
+      213: -7251093867807891094
+    second: Sprites finales2 copy_70
+  - first:
+      213: 4393149964441770429
+    second: Sprites finales2 copy_71
+  - first:
+      213: 112086621056423058
+    second: Sprites finales2 copy_72
+  - first:
+      213: 2522157374214990918
+    second: Sprites finales2 copy_73
+  - first:
+      213: 2256800955819434747
+    second: Sprites finales2 copy_74
+  - first:
+      213: -7977329706881281372
+    second: Sprites finales2 copy_75
+  - first:
+      213: 1600839863692064820
+    second: Sprites finales2 copy_76
+  - first:
+      213: -2293502673690716855
+    second: Sprites finales2 copy_77
+  - first:
+      213: -5703564042968142215
+    second: Sprites finales2 copy_78
+  - first:
+      213: 211511843177095628
+    second: Sprites finales2 copy_79
+  - first:
+      213: -195775723139081465
+    second: Sprites finales2 copy_80
+  - first:
+      213: -6247777501689506549
+    second: Sprites finales2 copy_81
+  - first:
+      213: -3524024122345838959
+    second: Sprites finales2 copy_82
+  - first:
+      213: 7261619105671967218
+    second: Sprites finales2 copy_83
+  - first:
+      213: 8422677810883894115
+    second: Sprites finales2 copy_84
+  - first:
+      213: -5370769399080273383
+    second: Sprites finales2 copy_85
+  - first:
+      213: -712726505403612866
+    second: Sprites finales2 copy_86
+  - first:
+      213: -3150603038637301528
+    second: Sprites finales2 copy_87
+  - first:
+      213: 6327753104544901479
+    second: Sprites finales2 copy_88
+  - first:
+      213: -6586915904319793670
+    second: Sprites finales2 copy_89
+  - first:
+      213: -208825702284265469
+    second: Sprites finales2 copy_90
+  - first:
+      213: 4811529456314632347
+    second: Sprites finales2 copy_91
+  - first:
+      213: -7910865417641233657
+    second: Sprites finales2 copy_92
+  - first:
+      213: 4137525363889732991
+    second: Sprites finales2 copy_93
+  - first:
+      213: 3664701398420899498
+    second: Sprites finales2 copy_94
+  - first:
+      213: -4813853553153617767
+    second: Sprites finales2 copy_95
+  - first:
+      213: 8804286853481122667
+    second: Sprites finales2 copy_96
+  - first:
+      213: 6794410084225140070
+    second: Sprites finales2 copy_97
+  - first:
+      213: -4403090482824681497
+    second: Sprites finales2 copy_98
+  - first:
+      213: -8706088396356792405
+    second: Sprites finales2 copy_99
+  - first:
+      213: 8154726646883435738
+    second: Sprites finales2 copy_100
+  - first:
+      213: 8579254933978683455
+    second: Sprites finales2 copy_101
+  - first:
+      213: 10302809314277484
+    second: Sprites finales2 copy_102
+  - first:
+      213: -163321710900546568
+    second: Sprites finales2 copy_103
+  - first:
+      213: -5227661111690043449
+    second: Sprites finales2 copy_104
+  - first:
+      213: -3945798250111815607
+    second: Sprites finales2 copy_105
+  - first:
+      213: 4433985440123778317
+    second: Sprites finales2 copy_106
+  - first:
+      213: -8212087550904138836
+    second: Sprites finales2 copy_107
+  - first:
+      213: 1539713806337309003
+    second: Sprites finales2 copy_108
+  - first:
+      213: -1346384980498826075
+    second: Sprites finales2 copy_109
+  - first:
+      213: -7851947475096203511
+    second: Sprites finales2 copy_110
+  - first:
+      213: -1254943847113978953
+    second: Sprites finales2 copy_111
+  - first:
+      213: -3906033272447101430
+    second: Sprites finales2 copy_112
+  - first:
+      213: -8596940420972120724
+    second: Sprites finales2 copy_113
+  - first:
+      213: 4501067430976576389
+    second: Sprites finales2 copy_114
+  - first:
+      213: -2436168580356070233
+    second: Sprites finales2 copy_115
+  - first:
+      213: 1669474958491421446
+    second: Sprites finales2 copy_116
+  - first:
+      213: 4813192734236203250
+    second: Sprites finales2 copy_117
+  - first:
+      213: -6813140165200909709
+    second: Sprites finales2 copy_118
+  - first:
+      213: 8722815298219382130
+    second: Sprites finales2 copy_119
+  - first:
+      213: -8788030433690042571
+    second: Sprites finales2 copy_120
+  - first:
+      213: -9097418858677616895
+    second: Sprites finales2 copy_121
+  - first:
+      213: 6947928562337168482
+    second: Sprites finales2 copy_122
+  - first:
+      213: -5765214716496098584
+    second: Sprites finales2 copy_123
+  - first:
+      213: 2867164638944991084
+    second: Sprites finales2 copy_124
+  - first:
+      213: 785395301006269532
+    second: Sprites finales2 copy_125
+  - first:
+      213: -7764727713812728137
+    second: Sprites finales2 copy_126
+  - first:
+      213: -3341823989626605982
+    second: Sprites finales2 copy_127
+  - first:
+      213: 7006991826768136852
+    second: Sprites finales2 copy_128
+  - first:
+      213: 6316781154451213363
+    second: Sprites finales2 copy_129
+  - first:
+      213: -3596766436834806372
+    second: Sprites finales2 copy_130
+  - first:
+      213: 5312877715261119702
+    second: Sprites finales2 copy_131
+  - first:
+      213: -2814895700873857969
+    second: Sprites finales2 copy_132
+  - first:
+      213: -5958525908065218556
+    second: Sprites finales2 copy_133
+  - first:
+      213: 3857185162503042301
+    second: Sprites finales2 copy_134
+  - first:
+      213: -6710473350439817616
+    second: Sprites finales2 copy_135
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprites finales2 copy_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3786
+        width: 325
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e9f587c7095c470800000000000000
+      internalID: 8414290343081516634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_1
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 3784
+        width: 325
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b500bf762fe4b260800000000000000
+      internalID: 7112572660154893752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_2
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 3783
+        width: 325
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd3819b421445100800000000000000
+      internalID: 95773118061624775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_3
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 3784
+        width: 325
+        height: 499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553978f6759f61780800000000000000
+      internalID: -8712502275173018795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_4
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 3786
+        width: 325
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca5d47e4d1d02c10800000000000000
+      internalID: 2026850544660601551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3171
+        width: 325
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea997944c7c968650800000000000000
+      internalID: 6234842791681694126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_13
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3171
+        width: 332
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72f43261898cef90800000000000000
+      internalID: -6923007338383871365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_14
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 3170
+        width: 338
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545995f5ae6d3cda0800000000000000
+      internalID: -5925656382579043003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_15
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 3171
+        width: 332
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1f67034c5aa1370800000000000000
+      internalID: 8294123925801464313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2549
+        width: 398
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a462d508a596870800000000000000
+      internalID: 8676565664471075464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_22
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2570
+        width: 417
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ed9cc165ff43250800000000000000
+      internalID: 5923640155214306941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_23
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2572
+        width: 416
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb95041b5c2b36f0800000000000000
+      internalID: -703920147063792658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_24
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2551
+        width: 327
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a011a6e780dfb20800000000000000
+      internalID: 3169699051777100379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_25
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2534
+        width: 391
+        height: 685
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17052d07b4984d410800000000000000
+      internalID: 1500975532929601649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_26
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 2544
+        width: 391
+        height: 670
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca06ae1e92b11090800000000000000
+      internalID: -8065469065455072571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_53
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2014
+        width: 449
+        height: 340
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244a5c87b429a4c60800000000000000
+      internalID: 7803210157219226690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_54
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2017
+        width: 461
+        height: 332
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac997f4820b281190800000000000000
+      internalID: -7991590248948196918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_55
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 2020
+        width: 476
+        height: 319
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd264f1dc4dff9670800000000000000
+      internalID: 8547829124154286811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_56
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 2017
+        width: 461
+        height: 332
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc059f0bde337470800000000000000
+      internalID: 8391119641301552325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_57
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2012
+        width: 574
+        height: 354
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a015b137b8f2667e0800000000000000
+      internalID: -1772677127345581814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_58
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 2010
+        width: 574
+        height: 338
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f9cc1b85e0726b0800000000000000
+      internalID: -5321268660612063365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_59
+      rect:
+        serializedVersion: 2
+        x: 3667
+        y: 2009
+        width: 574
+        height: 334
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ba14078843bcd0800000000000000
+      internalID: -2543609619807555190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_60
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 2010
+        width: 574
+        height: 338
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c8443df6ad58b40800000000000000
+      internalID: 5441995898567822405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_75
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1341
+        width: 462
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a29b25b5e4da4190800000000000000
+      internalID: -7977329706881281372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_76
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1341
+        width: 463
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43876a9df53573610800000000000000
+      internalID: 1600839863692064820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_77
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1341
+        width: 462
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94591434877db20e0800000000000000
+      internalID: -2293502673690716855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_78
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 1343
+        width: 412
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e6131c8bed8d0b0800000000000000
+      internalID: -5703564042968142215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_79
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1345
+        width: 336
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1eb5696e07fe200800000000000000
+      internalID: 211511843177095628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_80
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1363
+        width: 469
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b56ae5407784df0800000000000000
+      internalID: -195775723139081465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_81
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 1315
+        width: 468
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b059e10e67f6b49a0800000000000000
+      internalID: -6247777501689506549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_82
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 1311
+        width: 460
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1962ba75bb6281fc0800000000000000
+      internalID: -3524024122345838959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_83
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 1311
+        width: 460
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f174c75a1476c460800000000000000
+      internalID: 7261619105671967218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_84
+      rect:
+        serializedVersion: 2
+        x: 4326
+        y: 1225
+        width: 348
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b9c4ff7dc53e470800000000000000
+      internalID: 8422677810883894115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_85
+      rect:
+        serializedVersion: 2
+        x: 4697
+        y: 1225
+        width: 348
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a3845efa13775b0800000000000000
+      internalID: -5370769399080273383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_86
+      rect:
+        serializedVersion: 2
+        x: 5067
+        y: 1278
+        width: 399
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31896ff403eb16f0800000000000000
+      internalID: -712726505403612866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_87
+      rect:
+        serializedVersion: 2
+        x: 5488
+        y: 1278
+        width: 399
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0e1cd9a3fc644d0800000000000000
+      internalID: -3150603038637301528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_88
+      rect:
+        serializedVersion: 2
+        x: 5909
+        y: 1278
+        width: 399
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76926c63ce1b0d750800000000000000
+      internalID: 6327753104544901479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_100
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 769
+        width: 379
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad446e30ea86b2170800000000000000
+      internalID: 8154726646883435738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_101
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 766
+        width: 392
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38115958e2af0770800000000000000
+      internalID: 8579254933978683455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_102
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 766
+        width: 371
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68bd59b95a942000800000000000000
+      internalID: 10302809314277484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_103
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 765
+        width: 423
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3f9ade4c3cbbdf0800000000000000
+      internalID: -163321710900546568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprites finales2 copy_104
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 769
+        width: 442
+        height: 432
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf579f8aed9377b0800000000000000
+      internalID: -5227661111690043449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 330c3d47b3f1d1f82ac74ab7b391949a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dani_Sprites_0: -1442899319
+      Sprites finales2 copy_0: 8414290343081516634
+      Sprites finales2 copy_1: 7112572660154893752
+      Sprites finales2 copy_10: -7373005480564276270
+      Sprites finales2 copy_100: 8154726646883435738
+      Sprites finales2 copy_101: 8579254933978683455
+      Sprites finales2 copy_102: 10302809314277484
+      Sprites finales2 copy_103: -163321710900546568
+      Sprites finales2 copy_104: -5227661111690043449
+      Sprites finales2 copy_105: -3945798250111815607
+      Sprites finales2 copy_106: 4433985440123778317
+      Sprites finales2 copy_107: -8212087550904138836
+      Sprites finales2 copy_108: 1539713806337309003
+      Sprites finales2 copy_109: -1346384980498826075
+      Sprites finales2 copy_11: -2554981305047410844
+      Sprites finales2 copy_110: -7851947475096203511
+      Sprites finales2 copy_111: -1254943847113978953
+      Sprites finales2 copy_112: -3906033272447101430
+      Sprites finales2 copy_113: -8596940420972120724
+      Sprites finales2 copy_114: 4501067430976576389
+      Sprites finales2 copy_115: -2436168580356070233
+      Sprites finales2 copy_116: 1669474958491421446
+      Sprites finales2 copy_117: 4813192734236203250
+      Sprites finales2 copy_118: -6813140165200909709
+      Sprites finales2 copy_119: 8722815298219382130
+      Sprites finales2 copy_12: 6234842791681694126
+      Sprites finales2 copy_120: -8788030433690042571
+      Sprites finales2 copy_121: -9097418858677616895
+      Sprites finales2 copy_122: 6947928562337168482
+      Sprites finales2 copy_123: -5765214716496098584
+      Sprites finales2 copy_124: 2867164638944991084
+      Sprites finales2 copy_125: 785395301006269532
+      Sprites finales2 copy_126: -7764727713812728137
+      Sprites finales2 copy_127: -3341823989626605982
+      Sprites finales2 copy_128: 7006991826768136852
+      Sprites finales2 copy_129: 6316781154451213363
+      Sprites finales2 copy_13: -6923007338383871365
+      Sprites finales2 copy_130: -3596766436834806372
+      Sprites finales2 copy_131: 5312877715261119702
+      Sprites finales2 copy_132: -2814895700873857969
+      Sprites finales2 copy_133: -5958525908065218556
+      Sprites finales2 copy_134: 3857185162503042301
+      Sprites finales2 copy_135: -6710473350439817616
+      Sprites finales2 copy_14: -5925656382579043003
+      Sprites finales2 copy_15: 8294123925801464313
+      Sprites finales2 copy_16: -6610622287707818284
+      Sprites finales2 copy_17: 9216839747407817103
+      Sprites finales2 copy_18: 3255281985584167736
+      Sprites finales2 copy_19: -2595646708331651689
+      Sprites finales2 copy_2: 95773118061624775
+      Sprites finales2 copy_20: 2384652557680951830
+      Sprites finales2 copy_21: 8676565664471075464
+      Sprites finales2 copy_22: 5923640155214306941
+      Sprites finales2 copy_23: -703920147063792658
+      Sprites finales2 copy_24: 3169699051777100379
+      Sprites finales2 copy_25: 1500975532929601649
+      Sprites finales2 copy_26: -8065469065455072571
+      Sprites finales2 copy_27: 9158918351933487356
+      Sprites finales2 copy_28: 4461474307980124254
+      Sprites finales2 copy_29: 2965267470536785
+      Sprites finales2 copy_3: -8712502275173018795
+      Sprites finales2 copy_30: 1176399471298250976
+      Sprites finales2 copy_31: 5567458144577525729
+      Sprites finales2 copy_32: -1869081820037866568
+      Sprites finales2 copy_33: -8956660532402000201
+      Sprites finales2 copy_34: -4173466062832661566
+      Sprites finales2 copy_35: -6429115734593024917
+      Sprites finales2 copy_36: 7400912683585280303
+      Sprites finales2 copy_37: 1193687665087271136
+      Sprites finales2 copy_38: -8071993051892640287
+      Sprites finales2 copy_39: -8456368671694514753
+      Sprites finales2 copy_4: 2026850544660601551
+      Sprites finales2 copy_40: -4422130597007525196
+      Sprites finales2 copy_41: -3842118851884455035
+      Sprites finales2 copy_42: -6641791468771224703
+      Sprites finales2 copy_43: 8088063731979776215
+      Sprites finales2 copy_44: 377037298823381581
+      Sprites finales2 copy_45: 8138075410182340869
+      Sprites finales2 copy_46: -7577793191941927543
+      Sprites finales2 copy_47: -322235662582156543
+      Sprites finales2 copy_48: 7958309640387572822
+      Sprites finales2 copy_49: 5720373343360351586
+      Sprites finales2 copy_5: -3836827769222729866
+      Sprites finales2 copy_50: 4532816579510508784
+      Sprites finales2 copy_51: 189176505992242337
+      Sprites finales2 copy_52: -979042202906288098
+      Sprites finales2 copy_53: 7803210157219226690
+      Sprites finales2 copy_54: -7991590248948196918
+      Sprites finales2 copy_55: 8547829124154286811
+      Sprites finales2 copy_56: 8391119641301552325
+      Sprites finales2 copy_57: -1772677127345581814
+      Sprites finales2 copy_58: -5321268660612063365
+      Sprites finales2 copy_59: -2543609619807555190
+      Sprites finales2 copy_6: -8384919751368297913
+      Sprites finales2 copy_60: 5441995898567822405
+      Sprites finales2 copy_61: -3075539925542920337
+      Sprites finales2 copy_62: 1220172952645499758
+      Sprites finales2 copy_63: 7245711784785859309
+      Sprites finales2 copy_64: -8757632461150648910
+      Sprites finales2 copy_65: 480164380020324928
+      Sprites finales2 copy_66: 2175314738272073300
+      Sprites finales2 copy_67: -2443107291153023636
+      Sprites finales2 copy_68: 1314887582286668814
+      Sprites finales2 copy_69: 2199383486039737779
+      Sprites finales2 copy_7: -6154878873477200889
+      Sprites finales2 copy_70: -7251093867807891094
+      Sprites finales2 copy_71: 4393149964441770429
+      Sprites finales2 copy_72: 112086621056423058
+      Sprites finales2 copy_73: 2522157374214990918
+      Sprites finales2 copy_74: 2256800955819434747
+      Sprites finales2 copy_75: -7977329706881281372
+      Sprites finales2 copy_76: 1600839863692064820
+      Sprites finales2 copy_77: -2293502673690716855
+      Sprites finales2 copy_78: -5703564042968142215
+      Sprites finales2 copy_79: 211511843177095628
+      Sprites finales2 copy_8: 1161942434018274094
+      Sprites finales2 copy_80: -195775723139081465
+      Sprites finales2 copy_81: -6247777501689506549
+      Sprites finales2 copy_82: -3524024122345838959
+      Sprites finales2 copy_83: 7261619105671967218
+      Sprites finales2 copy_84: 8422677810883894115
+      Sprites finales2 copy_85: -5370769399080273383
+      Sprites finales2 copy_86: -712726505403612866
+      Sprites finales2 copy_87: -3150603038637301528
+      Sprites finales2 copy_88: 6327753104544901479
+      Sprites finales2 copy_89: -6586915904319793670
+      Sprites finales2 copy_9: -4306372130592633412
+      Sprites finales2 copy_90: -208825702284265469
+      Sprites finales2 copy_91: 4811529456314632347
+      Sprites finales2 copy_92: -7910865417641233657
+      Sprites finales2 copy_93: 4137525363889732991
+      Sprites finales2 copy_94: 3664701398420899498
+      Sprites finales2 copy_95: -4813853553153617767
+      Sprites finales2 copy_96: 8804286853481122667
+      Sprites finales2 copy_97: 6794410084225140070
+      Sprites finales2 copy_98: -4403090482824681497
+      Sprites finales2 copy_99: -8706088396356792405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
