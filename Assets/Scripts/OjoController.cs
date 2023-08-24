@@ -18,9 +18,13 @@ public class OjoController : MonoBehaviour
     void Update()
     {
 	    // Move Smoothly to the Orb with smoothdamp
-		if(enRango)
-			transform.position = Vector3.SmoothDamp(transform.position, orb.position, ref velocity, speed * Time.deltaTime);
-        //transform.position = Vector3.MoveTowards(transform.position, orb.position, plerp);
+	    if (enRango)
+	    {
+		    // Evades de character for 1 second and then attacks
+		    transform.position = Vector3.SmoothDamp(transform.position, orb.position, ref velocity, speed * Time.deltaTime);
+	    }
+
+	    //transform.position = Vector3.MoveTowards(transform.position, orb.position, plerp);
     }
 	void OnTriggerEnter2D(Collider2D other){
 		if(other.gameObject.CompareTag("Player")){
