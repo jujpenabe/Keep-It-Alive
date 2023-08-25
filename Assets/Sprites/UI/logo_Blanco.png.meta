@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: f71217ea8fbcd4e42ba77036e260a6a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -399814653758102848
+    second: logo_Blanco_0
+  - first:
+      213: -4475080525506417637
+    second: logo_Blanco_1
+  - first:
+      213: 5896223670201679437
+    second: logo_Blanco_2
+  - first:
+      213: -7494692397586186860
+    second: logo_Blanco_3
+  - first:
+      213: 212740378910990884
+    second: logo_Blanco_4
+  - first:
+      213: 6395918237413052294
+    second: logo_Blanco_5
+  - first:
+      213: -5796779740533284811
+    second: logo_Blanco_6
+  - first:
+      213: 8848907919937204245
+    second: logo_Blanco_7
+  - first:
+      213: 2190855895294671632
+    second: logo_Blanco_8
+  - first:
+      213: 3624342434137206664
+    second: logo_Blanco_9
+  - first:
+      213: 1957930304532429335
+    second: logo_Blanco_10
+  - first:
+      213: -2792179910826120832
+    second: logo_Blanco_11
+  - first:
+      213: 8114004560618891734
+    second: logo_Blanco_12
+  - first:
+      213: 5213145872097681539
+    second: logo_Blanco_13
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: logo_Blanco_0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 301
+        width: 564
+        height: 581
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2a0c2d0b2937af0800000000000000
+      internalID: -399814653758102848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 163
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cebe7d8f155e1c0800000000000000
+      internalID: -4475080525506417637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 162
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4efe92403893d150800000000000000
+      internalID: 5896223670201679437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 163
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dfd0519f08df790800000000000000
+      internalID: -7494692397586186860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 163
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4222f5a5f3ec3f200800000000000000
+      internalID: 212740378910990884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_5
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 163
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f8279ffbdd2c850800000000000000
+      internalID: 6395918237413052294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_6
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 162
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5302554e983bd8fa0800000000000000
+      internalID: -5796779740533284811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_7
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 162
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5107ff1aed2adca70800000000000000
+      internalID: 8848907919937204245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_8
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 163
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bfb1144db776e10800000000000000
+      internalID: 2190855895294671632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_9
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 162
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f6f13cd304c4230800000000000000
+      internalID: 3624342434137206664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_10
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 163
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ab0a80d37fb2b10800000000000000
+      internalID: 1957930304532429335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_11
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 163
+        width: 11
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0892a3a2a2f2049d0800000000000000
+      internalID: -2792179910826120832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_12
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 162
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9a695782cba9070800000000000000
+      internalID: 8114004560618891734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_Blanco_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 162
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3802dacdc80d85840800000000000000
+      internalID: 5213145872097681539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      logo_Blanco_0: -399814653758102848
+      logo_Blanco_1: -4475080525506417637
+      logo_Blanco_10: 1957930304532429335
+      logo_Blanco_11: -2792179910826120832
+      logo_Blanco_12: 8114004560618891734
+      logo_Blanco_13: 5213145872097681539
+      logo_Blanco_2: 5896223670201679437
+      logo_Blanco_3: -7494692397586186860
+      logo_Blanco_4: 212740378910990884
+      logo_Blanco_5: 6395918237413052294
+      logo_Blanco_6: -5796779740533284811
+      logo_Blanco_7: 8848907919937204245
+      logo_Blanco_8: 2190855895294671632
+      logo_Blanco_9: 3624342434137206664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

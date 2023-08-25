@@ -4,7 +4,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"/media/Storage/Documents/Projects/Unity/Keep-It-Alive/Builds/V0.1.2Light;/media/Storage/Documents/Projects/Unity/Keep-It-Alive/Builds/V0.1.2;/media/Storage/Documents/Projects/Unity/Keep-It-Alive/Builds/V0.1.1;D:/Escritorio/v1;D:/Escritorio/PrototipoLvl1;D:/Documentos/Unreal Projects/JuegoJam/Keep-It-Alive/build;;;;\"}"
+                "value": "{\"m_Value\":\"D:/Documents/Projects/Unity/Keep-It-Alive/Builds/V0.1.2;D:/Documents/Projects/Unity/Keep-It-Alive/Builds/v0.1.2;D:/Documents/Projects/Unity/Keep-It-Alive/Builds/V0.1.2Light;/media/Storage/Documents/Projects/Unity/Keep-It-Alive/Builds/V0.1.2Light;/media/Storage/Documents/Projects/Unity/Keep-It-Alive/Builds/V0.1.2;/media/Storage/Documents/Projects/Unity/Keep-It-Alive/Builds/V0.1.1;D:/Escritorio/v1;D:/Escritorio/PrototipoLvl1;D:/Documentos/Unreal Projects/JuegoJam/Keep-It-Alive/build;\"}"
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
